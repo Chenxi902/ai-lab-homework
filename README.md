@@ -1,2 +1,2 @@
-# ai-lab-homework
-ai lab通识阶段的任务
+#Git第一次练习项目
+##环境要求-Linux
