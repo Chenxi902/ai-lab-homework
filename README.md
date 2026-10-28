@@ -112,10 +112,8 @@ for i in range(10):
       
 ## docker 源码镜像容器的截图
 
-![alt text](docker的操作截图1.png)
+<img width="1950" height="1127" alt="6cb2acc9b9faec4b683dd5ccee33221e" src="https://github.com/user-attachments/assets/4b7be058-7f37-44a8-9781-a9a0934f4b28" />
 
-
-![alt text](docker的操作截图2.png)
 
 
 
